@@ -8,4 +8,4 @@ $row = $result->fetch();
 //Skriv ut hela raden som en array
 print_r($row);
 // Printa ut ett värde från associativa array
-print($row["realname"]);
+print($row["passhash"]);

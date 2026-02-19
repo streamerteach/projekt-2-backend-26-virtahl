@@ -10,6 +10,7 @@
             <li><a href="../projekt1/">Projekt 1</a></li>
             <li><a href="../projekt2/">Projekt 2</a></li>
             <li><a href="../rapport/">Rapport</a></li>
+              <li><a href="./login.php">Login</a></li>
             <?php
             // Hälsa på återkommande användare
             if (isset($_SESSION['username'])) {
