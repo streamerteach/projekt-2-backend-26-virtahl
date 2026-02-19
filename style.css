@@ -58,6 +58,21 @@ article {
     margin-bottom: 30px;
     padding-left: 10px;
 }
+.profile {
+    background-color: #1abc9c;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.landing-page {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: column;
+   
+}
+
 
 /* Footer */
 footer {

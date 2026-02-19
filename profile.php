@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dennis Dejtar</title>
+    <title>Elliot dejtar</title>
     <link rel="stylesheet" href="./style.css">
-    <script src="./script.js" defer></script>
+  
 </head>
 
 <body>
@@ -16,15 +16,16 @@
         <section>
 
             <article>
-                <h2>Välkommen till Elliot dejtar!</h2>
-                <?php include "./view_profiles.php" ?>
+                <h2>Din dejtingannons</h2>
+                <?php include "./view_account.php" ?>
+                <!-- Eller "./view_register.php -->
             </article>
 
         </section>
 
         <!-- Footern innehåller t.ex. somelänkar och kontaktuppg -->
         <footer>
-            Made by Elliot<sup>&#169;</sup>
+            Made by Virpi<sup>&#169;</sup>
         </footer>
 
     </div>
